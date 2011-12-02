@@ -1,0 +1,3 @@
+This is a port of open source zmodem tool to android.
+It can be used with console line in case ADB is not working yet.
+

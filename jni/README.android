@@ -1,0 +1,10 @@
+Steps to build from original source:
+
+1) get and unpack lrzsz-0.12.20.tar.gz
+
+2) run configure as follows
+./configure --disable-nls
+
+(note this uses the desktop gcc and glibc headers)
+
+3) Further modifications as change history will show
